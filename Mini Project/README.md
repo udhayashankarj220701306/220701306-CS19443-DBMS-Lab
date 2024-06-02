@@ -1,48 +1,31 @@
-﻿# 220701317-CS19443-DBMS-Lab
+﻿# 220701306-CS19443-DBMS-Lab
 
-## Expense Manager 💸
-This project involves the creation of an Expense Manager application
-using Python, with PyQt5 for the graphical user interface (GUI) and
-Pyrebase for Firebase integration. The application aims to provide users
-with an efficient and user-friendly platform to track and manage their daily
-expenses. Firebase's Realtime Database is utilized to store and synchronize
-expense data in real-time, ensuring users have up-to-date access to their
-financial information across multiple devices. Key features include secure
-user authentication, expense tracking with detailed entry fields, and data
-visualization.
-The integration of Pyrebase simplifies interaction with Firebase services,
-allowing for seamless authentication, real-time data updates, and
-consistent synchronization. Users can add, edit, delete, search, and filter
-expenses, with changes instantly reflected across all devices. By
-combining PyQt5's robust GUI capabilities with Firebase's powerful
-backend services, this Expense Manager application provides a
-comprehensive solution for personal finance management.
+## OD AUTOMATION
+The OD request automation is an application for assisting a class incharge in managing OD list of students of their class. The system would provide basic set of feature to request OD for a student, decline/approve OD request of a student for a class incharge, counselor and Head of department and view list of student who got OD on particular day.
+
+ OD request automation is a typical management information system (MIS), its development include the establishment and maintenance of back-end database and front-end application development aspects. For the former require the establishment of data consistency and integrity of the strong data security and good libraries. As for the latter requires the application full functional, easy to use and so on.
 
 ## Techstack 🧑‍💻
-- PyQt5 (Python)
-- Firebase Realtime Database
+- Tkinter (Python)
+- Supabase Realtime Database (Posgresql)
 
 ## Steps to Run 🏃‍♂️
-1. Activate the virtual environment
+1. Change current working directory to app
     ```
-    venv\Scripts\activate
+    cd 220701306-CS19443-DBMS-Lab/"Mini Project"/Code
     ```
-2. Change current working directory to app
+2. Add your ouwn credentials in **configs.py**
+3. Run the main file
     ```
-    cd app
-    ```
-3. Add your ouwn credentials in **firebase_config.py**
-4. Run the main file
-    ```
-    python main.py
+    python login.py
     ```
 
 ## Preview 🖼️
-![Screenshot 1](screenshots/s1.png)
+![Screenshot 1]("Mini Project"/Screenshots/1LOGIN.png)
 ![Screenshot 2](screenshots/s2.png)
 
 ## Contributors
-1. Vignesh C (220701317)
-2. Vijai T (220701319)
+1. Tharun RL (220701302)
+2. Udhaya Shankar J (220701306)
 
 `Contributions are always welcomed!`
