@@ -23,7 +23,7 @@ The OD request automation is an application for assisting a class incharge in ma
 ## Preview 🖼️
 ![Screenshot 1](Screenshots/1LOGIN.png)
 ![Screenshot 2](Screenshots/2STUDENTSTATUS.png)
-![Screenshot 3](Screenshots/'3CREATING OD'.png)
+![Screenshot 3](Screenshots/3CREATING%20OD.png)
 ![Screenshot 4](Screenshots/)
 ![Screenshot 5](Screenshots/)
 ![Screenshot 6](Screenshots/)
