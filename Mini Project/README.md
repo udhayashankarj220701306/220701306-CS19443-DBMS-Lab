@@ -23,20 +23,28 @@ The OD request automation is an application for assisting a class incharge in ma
 ## Preview 🖼️
 1.Login
 ![Screenshot 1](Screenshots/1LOGIN.png)
+
 2.Status of student
 ![Screenshot 2](Screenshots/2STUDENTSTATUS.png)
+
 3.Creating OD
 ![Screenshot 3](Screenshots/3CREATING%20OD.png)
+
 4.Staff Status
 ![Screenshot 4](Screenshots/4PENDING%20OD.png)
+
 5.Staff Accepting or Decline OD
 ![Screenshot 5](Screenshots/5ACCEPTDECLINE.png)
+
 6.Forwarding OD to Counselor
 ![Screenshot 6](Screenshots/6FORWARDING%20APPROVALDECLINE.png)
+
 7.Forwarding Od to HOD
 ![Screenshot 7](Screenshots/7FORWARDING%20APPROVALDECLINE.png)
+
 8.Approved OD 
 ![Screenshot 8](Screenshots/8FINAL%20APPROVAL.png)
+
 9.List of Student Obtained OD
 ![Screenshot 9](Screenshots/9LIST%20OF%20STUDENTS%20OBTAINED%20OD.png)
 
