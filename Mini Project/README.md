@@ -21,8 +21,8 @@ The OD request automation is an application for assisting a class incharge in ma
     ```
 
 ## Preview 🖼️
-![Screenshot 1]("Mini Project"/Screenshots/1LOGIN.png)
-![Screenshot 2](screenshots/s2.png)
+![Screenshot 1](Screenshots/1LOGIN.png)
+![Screenshot 2](Screenshots/2STUDENT STATUS.png)
 
 ## Contributors
 1. Tharun RL (220701302)
